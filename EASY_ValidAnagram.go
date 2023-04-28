@@ -19,5 +19,7 @@ func main() {
 	}
 	if len(s) == len(t) {
 		fmt.Println("true")
+	} else {
+		fmt.Println("false")
 	}
 }
