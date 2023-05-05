@@ -16,5 +16,5 @@ func main() {
 	if lastWordLength != 0 {
 		result = lastWordLength
 	}
-	fmt.Println("Length of last word 's' is", result)
+	fmt.Println("Length of last word 's' is ", result)
 }
